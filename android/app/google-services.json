@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "872261218187",
+    "project_id": "khatarzone-4f690",
+    "storage_bucket": "khatarzone-4f690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872261218187:android:172603c1172fb48e7f498e",
+        "android_client_info": {
+          "package_name": "com.example.khatar_finaal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872261218187-5h4if384iif1jpeie048vqksfn58nb0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khatar_finaal",
+            "certificate_hash": "2fcbdde4e6d2e50b25d0f0b42edb96b8eae6320a"
+          }
+        },
+        {
+          "client_id": "872261218187-pi3ru054kv6q850sasepib2ki490uhok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBERl-gdURP-cID5wa8OKySNnaSbBWHZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872261218187-pi3ru054kv6q850sasepib2ki490uhok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
